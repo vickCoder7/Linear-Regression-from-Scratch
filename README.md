@@ -1,4 +1,4 @@
-# VictorLearnLinear
+# Linear Regression from Scratch
 
 ## Overview
 This project implements Linear Regression from scratch, focusing on the core mathematical foundations and optimization techniques behind one of the most important algorithms in Machine Learning.
