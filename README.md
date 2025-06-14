@@ -25,6 +25,5 @@ This project implements Linear Regression from scratch, focusing on the core mat
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YourUsername/VictorLearnLinear.git
-cd VictorLearnLinear
+git clone https://github.com/vickCoder7/Linear-Regression-from-Scratch.git
 pip install -r requirements.txt
